@@ -11,6 +11,10 @@ struct Date {
     int day;
 };
 
+
+
+
+
 struct Product {
     char title[255];
     char maker[255];
